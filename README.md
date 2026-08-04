@@ -18,6 +18,15 @@
 - Loops (for loop)
 - Functions
 
+## Day 3 Completed ✅
+
+### Topics Covered
+- NumPy Arrays (1D and 2D)
+- Array Indexing and Slicing
+- Mathematical Operations (Sum, Mean, Max, Min)
+- Array Arithmetic
+- Array Shape
+
 ### Author
 Rajan Bharti
 Computer Science Engineering
