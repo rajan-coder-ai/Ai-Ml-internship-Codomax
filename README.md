@@ -27,6 +27,28 @@
 - Array Arithmetic
 - Array Shape
 
+- # Day 4 Completed ✅
+
+## Topics Covered
+- Introduction to Pandas
+- Importing Pandas Library
+- Creating DataFrames
+- Loading Dataset
+- Exploring Rows and Columns
+- Viewing Dataset Information
+- Displaying First and Last Records
+
+## Concepts Practiced
+- pd.read_csv()
+- head()
+- tail()
+- info()
+- shape
+- columns
+
+## Outcome
+Successfully learned the basics of Pandas and explored a dataset using Python.
+
 ### Author
 Rajan Bharti
 Computer Science Engineering
