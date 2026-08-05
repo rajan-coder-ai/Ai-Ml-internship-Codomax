@@ -49,6 +49,31 @@
 ## Outcome
 Successfully learned the basics of Pandas and explored a dataset using Python.
 
+# Day 5 Completed ✅
+
+## Topics Covered
+- Introduction to NumPy
+- Creating NumPy Arrays
+- 1D and 2D Arrays
+- Array Indexing and Slicing
+- Mathematical Operations
+- Array Arithmetic
+- Array Shape and Dimensions
+
+## Concepts Practiced
+- np.array()
+- Indexing
+- Slicing
+- np.sum()
+- np.mean()
+- np.max()
+- np.min()
+- Array Addition
+- Array Multiplication
+- shape
+
+## Outcome
+Successfully learned the fundamentals of NumPy, performed array operations, and understood how NumPy is used for numerical computing in AI and Machine Learning.
 ### Author
 Rajan Bharti
 Computer Science Engineering
