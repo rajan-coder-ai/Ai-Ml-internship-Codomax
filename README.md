@@ -74,6 +74,15 @@ Successfully learned the basics of Pandas and explored a dataset using Python.
 
 ## Outcome
 Successfully learned the fundamentals of NumPy, performed array operations, and understood how NumPy is used for numerical computing in AI and Machine Learning.
+
+## Day 6 Completed ✅
+
+### Topics Covered
+- Line Chart
+- Bar Chart
+- Scatter Plot
+- Matplotlib Basics
+- Data Visualization
 ### Author
 Rajan Bharti
 Computer Science Engineering
