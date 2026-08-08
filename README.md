@@ -83,7 +83,47 @@ Successfully learned the fundamentals of NumPy, performed array operations, and 
 - Scatter Plot
 - Matplotlib Basics
 - Data Visualization
+
+ ## Day 7 Completed ✅
+
+### Topics Covered
+- Supervised Learning Concepts
+- Train-Test Split
+- Building a Linear Regression Model using Scikit-learn
+
 ### Author
 Rajan Bharti
 Computer Science Engineering
 RNSIT Bengaluru
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
