@@ -91,6 +91,13 @@ Successfully learned the fundamentals of NumPy, performed array operations, and 
 - Train-Test Split
 - Building a Linear Regression Model using Scikit-learn
 
+## Day 8 Completed ✅
+
+### Topics Covered
+- Building and Training a Linear Regression Model
+- Interpreting Model Coefficients and Equation
+- Generating Predictions on Training Data
+
 ### Author
 Rajan Bharti
 Computer Science Engineering
