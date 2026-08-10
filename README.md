@@ -98,6 +98,13 @@ Successfully learned the fundamentals of NumPy, performed array operations, and 
 - Interpreting Model Coefficients and Equation
 - Generating Predictions on Training Data
 
+- ## Day 9 Completed ✅
+
+### Topics Covered
+- Generating Predictions on Test Data
+- Predicting Scores for New/Unseen Study Hours
+- Comparing Actual vs Predicted Values
+
 ### Author
 Rajan Bharti
 Computer Science Engineering
