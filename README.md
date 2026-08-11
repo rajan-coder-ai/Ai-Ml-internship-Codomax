@@ -104,6 +104,11 @@ Successfully learned the fundamentals of NumPy, performed array operations, and 
 - Generating Predictions on Test Data
 - Predicting Scores for New/Unseen Study Hours
 - Comparing Actual vs Predicted Values
+## Day 10 Completed ✅
+- ### Topics Covered
+- Model Evaluation using MAE, MSE, and R² Score
+- Interpreting Model Performance Metrics
+- Internship Project Wrap-up
 
 ### Author
 Rajan Bharti
