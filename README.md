@@ -110,6 +110,36 @@ Successfully learned the fundamentals of NumPy, performed array operations, and 
 - Interpreting Model Performance Metrics
 - Internship Project Wrap-up
 
+- ## Day 11 Completed ✅
+
+### Topic Covered
+- Prediction App using Python
+- Linear Regression
+- User Input
+- Score Prediction
+- Model Prediction
+
+### Task
+Created a simple Python prediction program where the user enters study hours and the trained Linear Regression model predicts the student's score.
+
+### Expected Outcome
+A working prediction program that predicts student scores based on study hours.
+
+### Technologies Used
+- Python
+- NumPy
+- Scikit-learn
+- Linear Regression
+
+### Sample Output
+Enter study hours: 6
+
+Study Hours: 6.0
+Predicted Score: 67.86
+
+### Learning Outcome
+Learned how to use a trained Machine Learning model to make predictions based on user input.
+
 ### Author
 Rajan Bharti
 Computer Science Engineering
