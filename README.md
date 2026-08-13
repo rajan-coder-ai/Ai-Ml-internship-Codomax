@@ -140,6 +140,20 @@ Predicted Score: 67.86
 ### Learning Outcome
 Learned how to use a trained Machine Learning model to make predictions based on user input.
 
+## Day 12 – Project Improvement
+
+### Tasks Completed
+- Improved project formatting
+- Added comments to the Python code
+- Organized project files
+- Improved code readability and structure
+
+### Project
+Student Score Prediction using Linear Regression
+
+### Outcome
+The project structure and documentation were improved for better readability and presentation.
+
 ### Author
 Rajan Bharti
 Computer Science Engineering
