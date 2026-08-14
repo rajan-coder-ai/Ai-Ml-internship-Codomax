@@ -154,6 +154,28 @@ Student Score Prediction using Linear Regression
 ### Outcome
 The project structure and documentation were improved for better readability and presentation.
 
+## Day 13 – GitHub & Project Documentation
+
+### Tasks Completed
+- Created Jupyter Notebook for the project
+- Added student score dataset
+- Organized project files
+- Uploaded project notebook and dataset to GitHub
+- Updated project documentation
+
+### Project
+Student Score Prediction using Linear Regression
+
+### Files Added
+- `day13_project.ipynb`
+- `student_scores.csv`
+
+### Learning Outcome
+Learned how to organize and publish a Machine Learning project on GitHub with a Jupyter Notebook and dataset.
+
+### Outcome
+Project files and documentation were organized and uploaded successfully to GitHub.
+
 ### Author
 Rajan Bharti
 Computer Science Engineering
