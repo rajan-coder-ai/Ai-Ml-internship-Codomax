@@ -176,10 +176,32 @@ Learned how to organize and publish a Machine Learning project on GitHub with a 
 ### Outcome
 Project files and documentation were organized and uploaded successfully to GitHub.
 
+## Day 14 – Final Submission
+
+### Tasks Completed
+- Submitted the complete GitHub repository
+- Uploaded the Jupyter Notebook
+- Added the student scores dataset (CSV)
+- Added project screenshots
+- Added README.md documentation
+- Prepared the project demo video
+- Completed the final project submission
+
+### Project
+Student Score Prediction using Linear Regression
+
+### Final Outcome
+The complete Machine Learning project was organized and submitted successfully with the source code, dataset, notebook, screenshots, documentation, and demo video.
+
+### Learning Outcome
+Completed the AI & Machine Learning internship project and gained practical experience in data analysis, visualization, Linear Regression, model evaluation, prediction, GitHub, and project documentation.
+
 ### Author
-Rajan Bharti
-Computer Science Engineering
+Rajan Bharti  
+Computer Science Engineering  
 RNSIT Bengaluru
+
+
 
 
 
