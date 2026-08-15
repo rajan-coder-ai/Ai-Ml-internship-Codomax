@@ -196,6 +196,8 @@ The complete Machine Learning project was organized and submitted successfully w
 ### Learning Outcome
 Completed the AI & Machine Learning internship project and gained practical experience in data analysis, visualization, Linear Regression, model evaluation, prediction, GitHub, and project documentation.
 
+
+
 ### Author
 Rajan Bharti  
 Computer Science Engineering  
